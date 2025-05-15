@@ -35,7 +35,10 @@ Note: Students and visitors are limited to one vehicle per permit, while employe
 
 # Project Reports 📊
 The Project Report has information about the database schema and its design. It consists of 3 parts:
-Report 1: ER Diagrams and APIs
-Report 2: Database Schema and SQL statements that create the tables
-Report 3: Transactions used in the Database and how the code was structured
-Note: Not all information provided may need explicit capture in the database. Hence, part of the project's effort involves discerning what to retain or discard, making assumptions, and addressing potential inconsistencies while documenting these decisions and assumptions. 
+
+**Report 1:** ER Diagrams and APIs
+
+**Report 2:** Database Schema and SQL statements that create the tables
+
+**Report 3:** Transactions used in the Database and how the code was structured
+ 
